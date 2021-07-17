@@ -1,4 +1,4 @@
--This project is made in MIT Scracth Game Engine
+-This project is made in MIT Scracth Engine
 -Click play button.
 -The axe and red cross will start to move.
 -When red cross is on Cyan mark (Wood Cutting Mark), press space bar, the axe will cut the wood.
